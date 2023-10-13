@@ -1,0 +1,4 @@
+jmeno = input("Zadejte jmeno: ")
+domena = "@czechitas"
+email = jmeno
+print(email+domena)
